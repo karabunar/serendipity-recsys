@@ -1,6 +1,6 @@
-# serendipity-lab
+# serendipity-recsys
 
-**Help a social feed surprise its users with posts they never asked for, but will care about.**
+**A recommender system that helps a social feed surprise its users with posts they never asked for, but will care about.**
 
 A feed built only from the people you follow is a closed loop: it can never show you anything
 new. *Serendipity* is the opposite, an unexpected find that still turns out to be relevant.
